@@ -26,9 +26,9 @@ I build creative research projects that use emerging technologies.
 
 ### DIGITAL POETICS PRESS
 
-**XR-native literary publishing: The world's first XR-native literary small press**
+**XR-native literary publishing**
 
-An experimental literary press exploring augmented reality, spatial publishing, open-source tools, and new forms of reading beyond the page.
+The world's first XR-native literary small press. An experimental literary press exploring augmented reality, spatial publishing, open-source tools, and new forms of reading beyond the page.
 
 **Focus:**  
 AR / XR  
