@@ -86,9 +86,9 @@ Co-Creation
 
 `Relational Poetics`  
 `Artificial Intelligence`  
-`Augmented Reality`
-`Spatial Publishing`
+`Augmented Reality`  
 `XR Publishing`  
+`Spatial Publishing`  
 `Space Humanities`  
 `Digital Transformation`  
 `Participatory Practice`  
