@@ -54,7 +54,7 @@ Participatory Art
 Relational Poetics  
 Public Practice
 
-[Explore the project →](YOUR-LINK)
+[Explore the project →](https://artfinity.mit.edu/event/the-augmented-reality-poetry-machine)
 
 </td>
 
@@ -72,7 +72,7 @@ Poetics
 Authorship  
 Co-Creation
 
-[Explore the project →](YOUR-LINK)
+[Explore the project →](https://github.com/MonicaStorss/poetic-digital-twin-the-oracle)
 
 </td>
 </tr>
