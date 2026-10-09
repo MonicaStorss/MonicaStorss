@@ -64,6 +64,8 @@ Public Practice
 
 **Poetic AI as co-creative system**
 
+
+
 A private language model trained on an original poetry corpus and developed as an experimental environment for authorship, co-creation, and human–AI relationality.
 
 **Focus:**  
