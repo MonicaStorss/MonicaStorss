@@ -12,7 +12,7 @@ I build creative research projects that use emerging technologies.
 
 <br>
 
-[Website](YOUR-LINK) · [Substack](YOUR-LINK) · [LinkedIn](YOUR-LINK)
+[Website](YOUR-LINK) · [Substack](https://monicastorss.substack.com/) · [LinkedIn](https://www.linkedin.com/in/monicastorss)
 
 </div>
 
